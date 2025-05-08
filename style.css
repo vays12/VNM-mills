@@ -3,11 +3,16 @@ h1{
     color: red;
 }
 
-p{
+.first{
     text-align: center;
     font-size: xx-small;
 }
-
+.second{
+    text-align:center;
+    font-size: 500px;
+    color: yellow ;
+}
+    
 body{
     background-image: url(image1.jpeg);
     background-repeat: no-repeat;
