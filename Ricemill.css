@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    color: red;
+}
+
+p{
+    text-align: center;
+    font-size: xx-small;
+}
+
+body{
+    background-image: url(image1.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 1000%;
+}
